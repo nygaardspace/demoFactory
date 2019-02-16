@@ -1,2 +1,2 @@
-# demoFactory
-Demo app factory
+# quantDashboard
+Quantitative Analysis Dashboard

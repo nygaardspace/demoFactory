@@ -1,0 +1,12 @@
+name: quantDashboard
+title: quantDashboard
+username:
+account: norquant
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 578572
+bundleId: 1750714
+url: https://norquant.shinyapps.io/quantDashboard/
+when: 1544355050.83403
+asMultiple: FALSE
+asStatic: FALSE

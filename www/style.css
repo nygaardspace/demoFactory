@@ -1,0 +1,85 @@
+#historyEQ{
+      height: 600px;       /* Just for the demo          */
+    overflow-y: auto;    /* Trigger vertical scroll    */
+    overflow-x: hidden;  /* Hide the horizontal scroll */
+}
+#historyTR{
+      height: 600px;       /* Just for the demo          */
+    overflow-y: auto;    /* Trigger vertical scroll    */
+    overflow-x: hidden;  /* Hide the horizontal scroll */
+}
+#historyMD{
+      height: 600px;       /* Just for the demo          */
+    overflow-y: auto;    /* Trigger vertical scroll    */
+    overflow-x: hidden;  /* Hide the horizontal scroll */
+}
+#tsETF{
+      height: 600px;       /* Just for the demo          */
+    overflow-y: auto;    /* Trigger vertical scroll    */
+    overflow-x: hidden;  /* Hide the horizontal scroll */
+}
+.logo{
+    font-family: 'Roboto', sans-serif;
+  font-weight: 600 !important;
+}
+.tooltip-inner{
+  padding: 15px;
+  font-size: 18px;
+  text-align: left;
+  width: 350px !important;
+}
+
+img{
+  height: 100%;
+  background-color: #222222;
+}
+#logoimage{
+  background-color: #011A27;
+}
+.well{
+  display: none;
+}
+#frame{
+  width: 100% !important;
+  height: 100% !important;
+}
+
+
+/*----------Navbar-desktop----------*/
+.nav .navbar-brand,
+.navbar-nav>li>a {
+  background-color: #011A27;
+  border-color: #011A27;
+  height: 87px;
+  line-height: 87px;
+  padding-top: 0;
+  font-size: 16px;
+  font-weight: 500;
+}
+.navbar-brand {
+  background-color: #011A27;
+  border-color: #011A27;
+  height: 87px;
+  line-height: 87px;
+  padding-top: 0;
+  font-size: 30px;
+  font-weight: 800;
+}
+.navbar-default {
+  background-color: #011A27;
+  border-color: #011A27;
+}
+
+.navbar-default .navbar-nav>li>a,
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>li>a:focus {
+  background-color: #011A27;
+  color: white;
+}
+#img-id{
+  position: fixed;
+  margin: auto;
+  right: 25px;
+  background-color: #011A27;
+}
+
